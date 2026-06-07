@@ -56,7 +56,7 @@ const config: ZudokuConfig = {
                             type: "link",
                             icon: "link-2",
                             label: "文档 Github",
-                            to: "https://zudoku.dev/docs/",
+                            to: "https://github.com/Moetopia/api-docs",
                         },
                     ],
                 },
