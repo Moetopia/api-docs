@@ -149,7 +149,12 @@ const config: ZudokuConfig = {
             termSaturation: 1.2,
         },
     },
-
+    metadata: {
+        title: "Moetopia API",
+        description: "Moetopia API Documentation",
+        favicon: "/favicon.ico",
+        applicationName: "Moetopia API",
+    },
 };
 
 export default config;
