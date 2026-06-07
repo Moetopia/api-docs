@@ -150,7 +150,7 @@ const config: ZudokuConfig = {
         },
     },
     metadata: {
-        title: "Moetopia API",
+        title: "%s - Moetopia API",
         description: "Moetopia API Documentation",
         favicon: "/favicon.ico",
         applicationName: "Moetopia API",
