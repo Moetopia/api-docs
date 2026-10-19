@@ -10,18 +10,18 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "react": ">=19.0.0",
-    "react-dom": ">=19.0.0",
-    "style-to-js": "1.1.16",
-    "zudoku": "0.79.1"
+    "react": ">=19.3.1",
+    "react-dom": ">=19.3.1",
+    "style-to-js": "2.0.2",
+    "zudoku": "0.93.0"
   },
   "devDependencies": {
-    "@types/node": "^22",
+    "@types/node": "^26",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@typescript-eslint/eslint-plugin": "^8",
     "@typescript-eslint/parser": "^8",
-    "eslint": "^8",
-    "typescript": "^6"
+    "eslint": "^10",
+    "typescript": "^7"
   }
 }
